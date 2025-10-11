@@ -1,0 +1,17 @@
+{
+  "name": "node-typescript-learn",
+  "version": "1.0.0",
+  "description": "A project to learn TypeScript with Node.js",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^18.0.0",
+    "tsx": "^4.20.5"
+  }
+}
