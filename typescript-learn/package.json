@@ -5,7 +5,8 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "es6": "node src/es6-learn.js"
   },
   "author": "",
   "license": "ISC",
